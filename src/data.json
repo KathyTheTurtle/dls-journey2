@@ -1,0 +1,660 @@
+{
+  "courses": [
+    {
+      "id": "journey2",
+      "name": "Journey 2",
+      "chapters": [
+        {
+          "id": "chapter20",
+          "name": "Chapter 20",
+          "coreVocab": [
+            {
+              "transliteration": "dtɔɔn",
+              "english": "{prep.} at/in... (time), when... (a point in time)"
+            },
+            {
+              "transliteration": "cháao",
+              "english": "morning, after sunrise"
+            },
+            {
+              "transliteration": "sǎai",
+              "english": "late morning, {adj.} late"
+            }
+          ]
+        },
+        {
+          "id": "chapter29",
+          "name": "Chapter 29",
+          "coreVocab": [
+            {
+              "transliteration": "wantîi tâorài",
+              "english": "what date (of the month)"
+            },
+            {
+              "transliteration": "wantîi",
+              "english": "date (of the month)"
+            },
+            {
+              "transliteration": "ìik... (kâang-nâa)",
+              "english": "in ...more (days, months, years, etc)"
+            }
+          ]
+        },
+        {
+          "id": "chapter34",
+          "name": "Chapter 34",
+          "coreVocab": [
+            {
+              "transliteration": "nísǎi",
+              "english": "personality"
+            },
+            {
+              "transliteration": "bpenmít",
+              "english": "friendly"
+            },
+            {
+              "transliteration": "ngîap, ngîap-ngîap",
+              "english": "quiet, silent"
+            }
+          ]
+        },
+        {
+          "id": "chapter36",
+          "name": "Chapter 36",
+          "coreVocab": [
+            {
+              "transliteration": "rûup-râang",
+              "english": "shape, body type"
+            },
+            {
+              "transliteration": "rûup...",
+              "english": "...shape"
+            },
+            {
+              "transliteration": "dtua lék",
+              "english": "small frame, build"
+            },
+            {
+              "transliteration": "dtua yài",
+              "english": "large frame, build"
+            },
+            {
+              "transliteration": "dtua lâm",
+              "english": "muscular frame, build"
+            },
+            {
+              "transliteration": "pǐu kǎao",
+              "english": "pale/light skin colour"
+            },
+            {
+              "transliteration": "pǐu klám",
+              "english": "dark skin colour"
+            },
+            {
+              "transliteration": "pǐu tɛɛn",
+              "english": "tan skin colour"
+            },
+            {
+              "transliteration": "nâa-dtaa",
+              "english": "face, (facial) looks"
+            }
+          ]
+        },
+        {
+          "id": "chapter39",
+          "name": "Chapter 39",
+          "coreVocab": [
+            {
+              "transliteration": "mʉ̌an (gan)",
+              "english": "(the) same"
+            },
+            {
+              "transliteration": "kláai (gan)",
+              "english": "similar"
+            },
+            {
+              "transliteration": "dtàang (gan)",
+              "english": "different"
+            },
+            {
+              "transliteration": "tâo (gan)",
+              "english": "equal, at the same (level)"
+            },
+            {
+              "transliteration": "pɔɔ (gan)",
+              "english": "around the same (level)"
+            },
+            {
+              "transliteration": "diao (gan)",
+              "english": "{det.} the exact same (one)"
+            },
+            {
+              "transliteration": "tîi...",
+              "english": "{conj.} that..., which..."
+            },
+            {
+              "transliteration": "táng... (táng/lɛ́/gàp...)",
+              "english": "both..., and..."
+            },
+            {
+              "transliteration": "daaraa",
+              "english": "celebrity"
+            },
+            {
+              "transliteration": "rót châat",
+              "english": "{n.} taste"
+            },
+            {
+              "transliteration": "chim",
+              "english": "{action v.} to taste, try"
+            },
+            {
+              "transliteration": "dâi rót",
+              "english": "{state v.} (I) can taste"
+            },
+            {
+              "transliteration": "glìn",
+              "english": "{n.} smell, scent"
+            },
+            {
+              "transliteration": "měn",
+              "english": "{adj.} bad (smell), stinks"
+            },
+            {
+              "transliteration": "hɔ̌ɔm",
+              "english": "{adj.} good (smell), aromatic"
+            },
+            {
+              "transliteration": "dom",
+              "english": "{action v.} to smell, sniff at"
+            },
+            {
+              "transliteration": "dâi glìn",
+              "english": "{state v.} (I) can smell"
+            },
+            {
+              "transliteration": "jàp",
+              "english": "{action v.} to touch, catch"
+            },
+            {
+              "transliteration": "rúusʉ̀k",
+              "english": "{state v.} to feel, sense"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "journey3",
+      "name": "Journey 3",
+      "chapters": [
+        {
+          "id": "chapter41",
+          "name": "Chapter 41",
+          "coreVocab": [
+            {
+              "transliteration": "...bpai",
+              "english": "{directional v.} ...to/away"
+            },
+            {
+              "transliteration": "...maa",
+              "english": "{directional v.} ...to/toward"
+            },
+            {
+              "transliteration": "...kâo",
+              "english": "{directional v.} ...in"
+            },
+            {
+              "transliteration": "...ɔ̀ɔk",
+              "english": "{directional v.} ...out"
+            },
+            {
+              "transliteration": "...kûn",
+              "english": "{directional v.} ...up"
+            },
+            {
+              "transliteration": "...long",
+              "english": "{directional v.} ...down"
+            },
+            {
+              "transliteration": "...glàp",
+              "english": "{directional v.} ...back, (returning) ...to"
+            },
+            {
+              "transliteration": "...tʉ̌ng",
+              "english": "{directional v.} ...until (reaching at)"
+            },
+            {
+              "transliteration": "...pàan",
+              "english": "{directional v.} ...through/past"
+            },
+            {
+              "transliteration": "dtaam",
+              "english": "{v.} to follow; {directional v.} (going) ...after (sb)"
+            },
+            {
+              "transliteration": "paa",
+              "english": "{v.} to take/bring (sb)"
+            },
+            {
+              "transliteration": "ao",
+              "english": "{v.} to take/bring (sth)"
+            },
+            {
+              "transliteration": "pátsadù",
+              "english": "parcel post, delivery package"
+            },
+            {
+              "transliteration": "bandai",
+              "english": "ladder, stairs"
+            },
+            {
+              "transliteration": "bandai lʉ̂an",
+              "english": "escalator"
+            },
+            {
+              "transliteration": "chán bon",
+              "english": "upstairs"
+            },
+            {
+              "transliteration": "chán lâang",
+              "english": "downstairs"
+            },
+            {
+              "transliteration": "pák",
+              "english": "{v.} to stay (swh)"
+            },
+            {
+              "transliteration": "tîi-pák",
+              "english": "{n.} accomodation, place to stay"
+            },
+            {
+              "transliteration": "tâa... (gɔ̂ɔ)",
+              "english": "if... (then...)"
+            },
+            {
+              "transliteration": "jâonaai",
+              "english": "supervisor, employer"
+            },
+            {
+              "transliteration": "lûuknɔ́ɔng",
+              "english": "junior staff, subordinate"
+            },
+            {
+              "transliteration": "dtônmáai {dtôn}",
+              "english": "tree"
+            }
+          ],
+          "vocabBuilder": [
+            {
+              "transliteration": "yók",
+              "english": "to lift"
+            },
+            {
+              "transliteration": "waang",
+              "english": "to place (put down)"
+            },
+            {
+              "transliteration": "sòng",
+              "english": "to send"
+            },
+            {
+              "transliteration": "yoon",
+              "english": "to throw"
+            },
+            {
+              "transliteration": "plàk",
+              "english": "to push"
+            },
+            {
+              "transliteration": "dʉng",
+              "english": "to pull"
+            },
+            {
+              "transliteration": "dəən",
+              "english": "to walk"
+            },
+            {
+              "transliteration": "wîng",
+              "english": "to run"
+            },
+            {
+              "transliteration": "bpiin",
+              "english": "to climb"
+            },
+            {
+              "transliteration": "gràdòot",
+              "english": "to jump"
+            },
+            {
+              "transliteration": "bin",
+              "english": "to fly"
+            },
+            {
+              "transliteration": "nǐi",
+              "english": "to escape"
+            }
+          ]
+        },
+        {
+          "id": "chapter42",
+          "name": "Chapter 42",
+          "coreVocab": [
+            {
+              "transliteration": "...kûn",
+              "english": "<<increasing change in state>> (sth becomes) more... (up)"
+            },
+            {
+              "transliteration": "...long",
+              "english": "<<decreasing change in state>> (sth becomes) more... (down)"
+            },
+            {
+              "transliteration": "pə̂əm",
+              "english": "{v.} (number/amount) to rise, to add"
+            },
+            {
+              "transliteration": "lót",
+              "english": "{v.} (number/amount) to drop, to reduce"
+            },
+            {
+              "transliteration": "sǔung",
+              "english": "{adj.} high"
+            },
+            {
+              "transliteration": "dtàm",
+              "english": "{adj.} low"
+            },
+            {
+              "transliteration": "sawàang",
+              "english": "{adj.} bright"
+            },
+            {
+              "transliteration": "mʉ̂ʉt",
+              "english": "{adj.} dark"
+            },
+            {
+              "transliteration": "ruai",
+              "english": "{adj.} rich"
+            },
+            {
+              "transliteration": "jon",
+              "english": "{adj.} poor"
+            },
+            {
+              "transliteration": "dii kûn",
+              "english": "{state v.} to get better/improve"
+            },
+            {
+              "transliteration": "yɛ̂ɛ long",
+              "english": "{state v.} to get worse/worsen"
+            },
+            {
+              "transliteration": "dtoo (kûn)",
+              "english": "{state v.} (plants/children) to grow (up)"
+            },
+            {
+              "transliteration": "pɔɔ... (gɔ̂ɔ)",
+              "english": "(conditional) when... (then...)"
+            },
+            {
+              "transliteration": "aagàat",
+              "english": "air, weather"
+            },
+            {
+              "transliteration": "(tɔ́ɔng)fáa",
+              "english": "sky"
+            },
+            {
+              "transliteration": "rʉ́duu/nâa",
+              "english": "(formal/colloquial) season"
+            },
+            {
+              "transliteration": "unnapuum (...ongsǎa)",
+              "english": "temperature (...degrees)"
+            },
+            {
+              "transliteration": "(lom, dɛ̀ɛt) rɛɛng",
+              "english": "{adj.} strong/intense (wind, sunlight)"
+            },
+            {
+              "transliteration": "fai mâi (bpàa)",
+              "english": "{n.} (forest) fire"
+            },
+            {
+              "transliteration": "náam tûam",
+              "english": "{n.} flood"
+            },
+            {
+              "transliteration": "lɔ̀ɔtfai {duang}",
+              "english": "lightbulb"
+            },
+            {
+              "transliteration": "daao {duang}",
+              "english": "star"
+            }
+          ],
+          "vocabBuilder": [
+            {
+              "transliteration": "jɛ̀msǎi",
+              "english": "clear, without clouds"
+            },
+            {
+              "transliteration": "mii mêek mâak",
+              "english": "very cloudy"
+            },
+            {
+              "transliteration": "fǒn dtòk",
+              "english": "raining"
+            },
+            {
+              "transliteration": "fǒn dtòk nàk",
+              "english": "raining heavily"
+            },
+            {
+              "transliteration": "mii paayú",
+              "english": "stormy"
+            },
+            {
+              "transliteration": "hìmá dtòk",
+              "english": "snowy"
+            },
+            {
+              "transliteration": "rɔ́on",
+              "english": "hot"
+            },
+            {
+              "transliteration": "nǎao",
+              "english": "cold"
+            },
+            {
+              "transliteration": "òp'âao",
+              "english": "stuffy; hot"
+            },
+            {
+              "transliteration": "nâa/rʉ́duu rɔ́on",
+              "english": "summer; hot season"
+            },
+            {
+              "transliteration": "nâa/rʉ́duu fǒn",
+              "english": "rainy season"
+            },
+            {
+              "transliteration": "nâa/rʉ́duu nǎao",
+              "english": "winder; cold season"
+            },
+            {
+              "transliteration": "nâa/rʉ́duu baimáai plì",
+              "english": "spring"
+            },
+            {
+              "transliteration": "nâa/rʉ́duu baimáai rûang",
+              "english": "autumn, fall"
+            },
+            {
+              "transliteration": "dtìt lóp ___ ongsǎa",
+              "english": "negative ___ degrees"
+            }
+          ]
+        },
+        {
+          "id": "chapter43",
+          "name": "Chapter 43",
+          "coreVocab": [
+            {
+              "transliteration": "...dâai",
+              "english": "<<possibility>> can/able to, (sth is) possible"
+            },
+            {
+              "transliteration": "...bpen",
+              "english": "<<ability>> can/able to (having the skill to do sth)"
+            },
+            {
+              "transliteration": "...wǎi",
+              "english": "<<strength>> can/able to (having the energy/will power)"
+            },
+            {
+              "transliteration": "tâotîi...",
+              "english": "<<limitation>> as much as, as far as, to the extent that"
+            },
+            {
+              "transliteration": "jambpen",
+              "english": "{adj.} necessary/essential"
+            },
+            {
+              "transliteration": "jambpen (dtɔ̂ng..)",
+              "english": "{state v.} to need (to do sth), must"
+            },
+            {
+              "transliteration": "dtɔ̂nggaan",
+              "english": "{state v.} to need, to desire, (formal) \"(I) would like...\""
+            },
+            {
+              "transliteration": "dǐao... gɔ̂o",
+              "english": "(if...) soon (sth) will then... (often used as a caution)"
+            },
+            {
+              "transliteration": "bprayàt (ngən, weelaa)",
+              "english": "{v.} to save (money, time) (being economical)"
+            },
+            {
+              "transliteration": "òtton, ton",
+              "english": "to endure/tolerate, to put up with"
+            },
+            {
+              "transliteration": "dtəəm",
+              "english": "{v.} to fill/refill, to add"
+            },
+            {
+              "transliteration": "dtem",
+              "english": "{adj.} full"
+            },
+            {
+              "transliteration": "(yàang) dtemtîi",
+              "english": "{adv.} (to do sth) to the full capacity, to do (one's) best"
+            },
+            {
+              "transliteration": "samàk (ngaan, kɔ́ot)",
+              "english": "{v.} to apply for (a job, a course), to register"
+            },
+            {
+              "transliteration": "tóptuan",
+              "english": "{v.} to review (a lesson)"
+            },
+            {
+              "transliteration": "(tam...) eeng",
+              "english": "{adv.} (to do sth) by (one)self, (without help from others)"
+            },
+            {
+              "transliteration": "kwaam-jing",
+              "english": "{n.} truth"
+            }
+          ],
+          "vocabBuilder": [
+            {
+              "transliteration": "rɔ́ɔng (pleeng)",
+              "english": "to sing (songs)"
+            },
+            {
+              "transliteration": "dtên",
+              "english": "to dance"
+            },
+            {
+              "transliteration": "tam kanǒm",
+              "english": "to make dessert"
+            },
+            {
+              "transliteration": "kìi máa",
+              "english": "to ride a horse"
+            },
+            {
+              "transliteration": "wâat (rûup)",
+              "english": "to draw (a picture)"
+            },
+            {
+              "transliteration": "dtɛ̀ng nâa",
+              "english": "to do makeup"
+            },
+            {
+              "transliteration": "dtàt pǒm",
+              "english": "to cut hair"
+            },
+            {
+              "transliteration": "pim",
+              "english": "to type"
+            },
+            {
+              "transliteration": "dam náam",
+              "english": "to go scuba diving"
+            },
+            {
+              "transliteration": "chók (muai)",
+              "english": "to punch"
+            },
+            {
+              "transliteration": "lên yooká",
+              "english": "to do yoga"
+            },
+            {
+              "transliteration": "sɔ̂m kɔmpíudtə̂ə",
+              "english": "to fix a computer"
+            }
+          ]
+        },
+        {
+          "id": "chapter44",
+          "name": "Chapter 44",
+          "coreVocab": [
+            {
+              "transliteration": "wairûn",
+              "english": "{n.} teenager, {adj.} adolescent"
+            },
+            {
+              "transliteration": "dtɔɔnnán",
+              "english": "at that time (in the past)"
+            },
+            {
+              "transliteration": "sʉ̀ʉsǎan",
+              "english": "{v.} to communicate"
+            },
+            {
+              "transliteration": "gaan-sʉ̀ʉsǎan",
+              "english": "{n.} communication"
+            },
+            {
+              "transliteration": "(tâa) bpen bpai dâai...",
+              "english": "(if) possible"
+            },
+            {
+              "transliteration": "chin (gàp)",
+              "english": "{v.} to be used to (sth)"
+            },
+            {
+              "transliteration": "jʉ̀ʉt",
+              "english": "{adj.} (taste) mild/bland"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
